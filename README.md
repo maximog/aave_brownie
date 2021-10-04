@@ -1,8 +1,10 @@
 1. Swap ETH for WETH
-1. Deposit some ETH (WETH) into AAVE
-1. Borrow some asset with the ETH collateral
+2. Deposit some ETH (WETH) into AAVE
+3. Borrow some asset with the ETH collateral
    1. Sell that borrowed asset
-1. Repay everything back
+4. Repay everything back
+5. Withdraw (almost all) WETH
+6. Unwrap WETH into ETH
 
 TESTING
 
