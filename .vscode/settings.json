@@ -1,0 +1,7 @@
+{
+  "solidity.compileUsingRemoteVersion": "v0.6.12+commit.27d51765",
+  "python.linting.flake8Enabled": true,
+  "python.linting.enabled": true,
+  "python.linting.lintOnSave": true,
+  "python.linting.pylintEnabled": false
+}
